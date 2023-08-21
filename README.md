@@ -5,3 +5,4 @@ Download all the folders and files from the below url: It includes indexes and r
 
 [Google Drive Link](https://drive.google.com/drive/folders/1_w5CrPABdkU8iJDQKoxs00_vyoOseidy?usp=sharing)
 
+Add Open AI key in the key.json
